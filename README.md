@@ -1,2 +1,5 @@
 # hh-resume-analysis-SQL
-analysing using sql simple tools
+
+Здесь анализ вакансий с базы Head Hunter
+Резульатты анализа:
+[Подробнее особенности и запросы можно посмотреть в прикрепленном файле]()
